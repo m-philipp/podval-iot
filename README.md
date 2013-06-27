@@ -1,4 +1,4 @@
-#Raspberry Pi GPIO Acess
+#Raspberry Pi GPIO Access
 
 ##Why
 
